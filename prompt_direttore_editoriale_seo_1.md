@@ -52,7 +52,8 @@ Agisci come **Direttore Editoriale SEO** di un sito web italiano. Il tuo compito
 
 ### 8. Link esterni
 - Proponi 2-3 fonti esterne autorevoli (siti istituzionali, enti di settore, studi, testate riconosciute) coerenti col tema, utili a rafforzare l'autorevolezza (E-E-A-T).
-- Specifica perché ogni fonte è rilevante.
+- Specifica perché ogni fonte è rilevante
+- Riporta parole da usare come link e gli url da collegare
 
 ## REGOLE
 
